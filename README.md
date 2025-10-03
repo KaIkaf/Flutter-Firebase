@@ -1,4 +1,4 @@
-flutter project called mynoteapps using firebase 
+flutter group project called mynoteapps using firebase 
 
 State management : Getx
 
